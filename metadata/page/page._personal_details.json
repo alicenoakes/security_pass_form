@@ -1,0 +1,22 @@
+{
+  "_id": "page._personal_details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page._personal_details--text.auto_name__1",
+      "_type": "text",
+      "label": "Name",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page._personal_details--date.auto_name__2",
+      "_type": "date",
+      "hint": "For example 19 02 1988",
+      "legend": "What is your date of birth?",
+      "name": "auto_name__2"
+    }
+  ],
+  "heading": "Personal details",
+  "sectionHeading": "Applicant details",
+  "url": "/personal_details"
+}

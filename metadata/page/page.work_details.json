@@ -1,0 +1,13 @@
+{
+  "_id": "page.work_details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.work_details--email.auto_name__3",
+      "_type": "email",
+      "label": "What is your work email address?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "work_details"
+}

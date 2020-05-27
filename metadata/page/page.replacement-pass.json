@@ -1,0 +1,36 @@
+{
+  "_id": "page.replacement-pass",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.replacement-pass--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.replacement-pass--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "Renewal",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.replacement-pass--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "label": "Damage",
+          "name": "auto_name__6"
+        },
+        {
+          "_id": "page.replacement-pass--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "label": "Changed name",
+          "name": "auto_name__7"
+        }
+      ]
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "replacement-pass"
+}
